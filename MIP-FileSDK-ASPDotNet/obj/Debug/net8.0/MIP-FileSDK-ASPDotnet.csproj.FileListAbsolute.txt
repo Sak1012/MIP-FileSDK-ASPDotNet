@@ -157,3 +157,4 @@ C:\Users\t-sauswin\Developer\MIP-FileSDK-ASPDotNet\MIP-FileSDK-ASPDotNet\obj\Deb
 C:\Users\t-sauswin\Developer\MIP-FileSDK-ASPDotNet\MIP-FileSDK-ASPDotNet\obj\Debug\net8.0\MIP-FileSDK-ASPDotnet.pdb
 C:\Users\t-sauswin\Developer\MIP-FileSDK-ASPDotNet\MIP-FileSDK-ASPDotNet\obj\Debug\net8.0\MIP-FileSDK-ASPDotnet.genruntimeconfig.cache
 C:\Users\t-sauswin\Developer\MIP-FileSDK-ASPDotNet\MIP-FileSDK-ASPDotNet\obj\Debug\net8.0\ref\MIP-FileSDK-ASPDotnet.dll
+C:\Users\t-sauswin\Developer\MIP-FileSDK-ASPDotNet\MIP-FileSDK-ASPDotNet\obj\Debug\net8.0\MIP-FileSDK-ASPDotnet.sourcelink.json

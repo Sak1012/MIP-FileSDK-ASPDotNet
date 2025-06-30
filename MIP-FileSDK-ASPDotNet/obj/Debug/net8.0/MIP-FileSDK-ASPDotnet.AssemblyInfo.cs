@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIP-FileSDK-ASPDotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3b8a2b91c10afd1e495052be4eb31c1078159c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIP-FileSDK-ASPDotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIP-FileSDK-ASPDotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

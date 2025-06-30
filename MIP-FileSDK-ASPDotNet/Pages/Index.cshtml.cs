@@ -60,8 +60,6 @@ namespace MIP_FileSDK_ASPDotNet.Pages
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> OnPostDownload()
         {
-            Debug.WriteLine("Inside DownloadAsync");
-
             try
             {
                 if (!User.Identity?.IsAuthenticated ?? true)
