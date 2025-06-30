@@ -12,7 +12,11 @@ urlFragment: MIP-FileSDK-ASPDotNet
 
 # Using MIP File SDK with ASP.NET to Label Files on Download
 
-![](./media/recording.mp4)
+
+
+https://github.com/user-attachments/assets/b732d463-c04c-4897-a6c7-65fb47c92fe0
+
+
 
 ![](./media/excel.png)
 
